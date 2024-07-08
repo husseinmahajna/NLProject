@@ -1,4 +1,4 @@
-![image](https://github.com/husseinmahajna/NLProject/assets/70291425/96d08182-7163-46b2-b3ca-9945887dab4d)![image](https://github.com/husseinmahajna/NLProject/assets/70291425/e5b567df-8ab6-4ae8-9fd8-b9fac7c214f1)# NLProject
+# NLProject
 
 ## Introduction
 
