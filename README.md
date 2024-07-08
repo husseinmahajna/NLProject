@@ -1,4 +1,4 @@
-# NLProject
+![image](https://github.com/husseinmahajna/NLProject/assets/70291425/96d08182-7163-46b2-b3ca-9945887dab4d)![image](https://github.com/husseinmahajna/NLProject/assets/70291425/e5b567df-8ab6-4ae8-9fd8-b9fac7c214f1)# NLProject
 
 ## Introduction
 
@@ -123,10 +123,10 @@ This analysis reveals a clear performance hierarchy among the models. Claude3.5 
 
 | Model    | Accuracy Range |
 |----------|----------------|
-| Claude3.5| 0.86 - 0.92    |
-| DSV2i    | 0.78 - 0.85    |
-| OCI      | 0.66 - 0.77    |
-| Claude3  | 0.63 - 0.73    |
+| Claude3.5| 0.866 - 0.884    |
+| DSV2i    | 0.78 - 0.8    |
+| OCI      | 0.66 - 0.713    |
+| Claude3  | 0.634 - 0.66    |
 
 > **Note:** Accuracy ranges represent the lower and upper bounds of model performance across different tests.
 
